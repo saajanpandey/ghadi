@@ -24,6 +24,12 @@ class BrandSeeder extends Seeder
         Brand::create([
             'name'=>'Audemars Piguet'
         ]);
+        Brand::create([
+            'name'=>'Sknei'
+        ]);
+        Brand::create([
+            'name'=>'NaviForce'
+        ]);
 
     }
 }

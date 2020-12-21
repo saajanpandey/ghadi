@@ -145,12 +145,12 @@
                 <div class="flex-sm-2 flex-md-3">
                     <div class="header__menu">
                         <button class="header__menu--toggler">
-                            <span class="line"></span>
-                            <span class="line"></span>
-                            <span class="line"></span></button
-                        ><!-- .header__menu--toggler ends-->
+                                <span class="line"></span>
+                                <span class="line"></span>
+                                <span class="line"></span></button>
+                        <!-- .header__menu--toggler ends-->
 
-                        <span class="hide-on-sm show-on-md">Menu</span>
+                        <span class="hide-on-sm show-on-md">Product We Sell</span>
                     </div>
                     <!-- .header__menu ends-->
                 </div>
@@ -171,12 +171,12 @@
                         </div>
                         <!-- .search ends-->
 
-{{--                        <div class="cart">--}}
-{{--                            <div class="icon">--}}
-{{--                                <i class="ri-shopping-bag-line"></i>--}}
-{{--                                <span></span>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
+                        <div class="cart">
+                            <div class="icon">
+                                <a href="/home/cart"><i class="ri-shopping-bag-line"></i></a>
+                                <span></span>
+                            </div>
+                        </div>
 
 
                         <!-- .cart ends-->
@@ -376,7 +376,9 @@
             <!-- .container ends-->
         </div>
         <!-- .smart-watch ends-->
+
         </div>
+
 
         <!-- .hero_carousel ends-->
     </section>
@@ -435,204 +437,204 @@
 
     <!-- Featured Products section starts-->
 
-    <section class="featured-products default-section-spacing">
-        <div class="container">
-            <div class="section-heading text-center-sm">
-                <div class="intro-bg">Featured products</div>
-                <h2>Featured products</h2>
-            </div><!-- .section-heading ends-->
+{{--    <section class="featured-products default-section-spacing">--}}
+{{--        <div class="container">--}}
+{{--            <div class="section-heading text-center-sm">--}}
+{{--                <div class="intro-bg">Featured products</div>--}}
+{{--                <h2>Featured products</h2>--}}
+{{--            </div><!-- .section-heading ends-->--}}
 
-            <div class="featured-products__carousel owl-carousel" id="featured-products-carousel">
+{{--            <div class="featured-products__carousel owl-carousel" id="featured-products-carousel">--}}
 
-                <div class="card product-card">
+{{--                <div class="card product-card">--}}
 
-                    <div class="card__header">
-                        <i class="ri-heart-line"></i>
-                        <img src="./images/featured/Bomberg Watch RACING For Men. BS45CHSP.059-3.10 Quartz.jpg" alt="">
-                    </div><!-- .card__header ends-->
+{{--                    <div class="card__header">--}}
+{{--                        <i class="ri-heart-line"></i>--}}
+{{--                        <img src="./images/featured/Bomberg Watch RACING For Men. BS45CHSP.059-3.10 Quartz.jpg" alt="">--}}
+{{--                    </div><!-- .card__header ends-->--}}
 
-                    <div class="card__body">
+{{--                    <div class="card__body">--}}
 
-                        <div class="product-details">
+{{--                        <div class="product-details">--}}
 
-                            <div class="title-reviews">
-                                <h3>Bomberg Watch RACING For Men</h3>
+{{--                            <div class="title-reviews">--}}
+{{--                                <h3>Bomberg Watch RACING For Men</h3>--}}
 
-                                <div class="reviews">
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-line"></i>
-                                    <span>(85 reviews)</span>
-                                </div><!-- .reviews ends-->
+{{--                                <div class="reviews">--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-line"></i>--}}
+{{--                                    <span>(85 reviews)</span>--}}
+{{--                                </div><!-- .reviews ends-->--}}
 
-                            </div><!-- .title-reviews ends-->
+{{--                            </div><!-- .title-reviews ends-->--}}
 
-                            <div class="price">NPR 104,380</div><!-- .price ends-->
+{{--                            <div class="price">NPR 104,380</div><!-- .price ends-->--}}
 
-                        </div><!-- .product-details ends-->
+{{--                        </div><!-- .product-details ends-->--}}
 
-                    </div><!-- .card__body ends-->
+{{--                    </div><!-- .card__body ends-->--}}
 
-                    <div class="card_footer">
-                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>
-                    </div><!-- .card_footer ends-->
+{{--                    <div class="card_footer">--}}
+{{--                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>--}}
+{{--                    </div><!-- .card_footer ends-->--}}
 
-                </div><!-- .card ends-->
+{{--                </div><!-- .card ends-->--}}
 
-                <div class="card product-card">
+{{--                <div class="card product-card">--}}
 
-                    <div class="card__header">
-                        <i class="ri-heart-line"></i>
-                        <img src="./images/featured/naviforce-nf9110-chronograph-luxury-watchs.jpg" alt="">
-                    </div><!-- .card__header ends-->
+{{--                    <div class="card__header">--}}
+{{--                        <i class="ri-heart-line"></i>--}}
+{{--                        <img src="./images/featured/naviforce-nf9110-chronograph-luxury-watchs.jpg" alt="">--}}
+{{--                    </div><!-- .card__header ends-->--}}
 
-                    <div class="card__body">
+{{--                    <div class="card__body">--}}
 
-                        <div class="product-details">
+{{--                        <div class="product-details">--}}
 
-                            <div class="title-reviews">
-                                <h3>naviforce-nf9110-chronograph</h3>
+{{--                            <div class="title-reviews">--}}
+{{--                                <h3>naviforce-nf9110-chronograph</h3>--}}
 
-                                <div class="reviews">
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-line"></i>
-                                    <i class="ri-star-s-line"></i>
-                                    <span>(55 reviews)</span>
-                                </div><!-- .reviews ends-->
+{{--                                <div class="reviews">--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-line"></i>--}}
+{{--                                    <i class="ri-star-s-line"></i>--}}
+{{--                                    <span>(55 reviews)</span>--}}
+{{--                                </div><!-- .reviews ends-->--}}
 
-                            </div><!-- .title-reviews ends-->
+{{--                            </div><!-- .title-reviews ends-->--}}
 
-                            <div class="price">NPR 3200</div><!-- .price ends-->
+{{--                            <div class="price">NPR 3200</div><!-- .price ends-->--}}
 
-                        </div><!-- .product-details ends-->
+{{--                        </div><!-- .product-details ends-->--}}
 
-                    </div><!-- .card__body ends-->
+{{--                    </div><!-- .card__body ends-->--}}
 
-                    <div class="card_footer">
-                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>
-                    </div><!-- .card_footer ends-->
+{{--                    <div class="card_footer">--}}
+{{--                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>--}}
+{{--                    </div><!-- .card_footer ends-->--}}
 
-                </div><!-- .card ends-->
+{{--                </div><!-- .card ends-->--}}
 
-                <div class="card product-card">
+{{--                <div class="card product-card">--}}
 
-                    <div class="card__header">
-                        <i class="ri-heart-line"></i>
-                        <img src="./images/featured/Casio G-Shock Gg-1000-1A5Dr(G661) Mud Master Men's Watch.jpg" alt="">
-                    </div><!-- .card__header ends-->
+{{--                    <div class="card__header">--}}
+{{--                        <i class="ri-heart-line"></i>--}}
+{{--                        <img src="./images/featured/Casio G-Shock Gg-1000-1A5Dr(G661) Mud Master Men's Watch.jpg" alt="">--}}
+{{--                    </div><!-- .card__header ends-->--}}
 
-                    <div class="card__body">
+{{--                    <div class="card__body">--}}
 
-                        <div class="product-details">
+{{--                        <div class="product-details">--}}
 
-                            <div class="title-reviews">
-                                <h3>Casio G-Shock Gg-1000-1A5Dr(G661)..</h3>
+{{--                            <div class="title-reviews">--}}
+{{--                                <h3>Casio G-Shock Gg-1000-1A5Dr(G661)..</h3>--}}
 
-                                <div class="reviews">
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <span>(100 reviews)</span>
-                                </div><!-- .reviews ends-->
+{{--                                <div class="reviews">--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <span>(100 reviews)</span>--}}
+{{--                                </div><!-- .reviews ends-->--}}
 
-                            </div><!-- .title-reviews ends-->
+{{--                            </div><!-- .title-reviews ends-->--}}
 
-                            <div class="price">NPR 32,525</div><!-- .price ends-->
+{{--                            <div class="price">NPR 32,525</div><!-- .price ends-->--}}
 
-                        </div><!-- .product-details ends-->
+{{--                        </div><!-- .product-details ends-->--}}
 
-                    </div><!-- .card__body ends-->
+{{--                    </div><!-- .card__body ends-->--}}
 
-                    <div class="card_footer">
-                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>
-                    </div><!-- .card_footer ends-->
+{{--                    <div class="card_footer">--}}
+{{--                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>--}}
+{{--                    </div><!-- .card_footer ends-->--}}
 
-                </div><!-- .card ends-->
+{{--                </div><!-- .card ends-->--}}
 
-                <div class="card product-card">
+{{--                <div class="card product-card">--}}
 
-                    <div class="card__header">
-                        <i class="ri-heart-line"></i>
-                        <img src="./images/featured/Titan White Dial Analog Watch For Men - 9480Km02.jpg" alt="">
-                    </div><!-- .card__header ends-->
+{{--                    <div class="card__header">--}}
+{{--                        <i class="ri-heart-line"></i>--}}
+{{--                        <img src="./images/featured/Titan White Dial Analog Watch For Men - 9480Km02.jpg" alt="">--}}
+{{--                    </div><!-- .card__header ends-->--}}
 
-                    <div class="card__body">
+{{--                    <div class="card__body">--}}
 
-                        <div class="product-details">
+{{--                        <div class="product-details">--}}
 
-                            <div class="title-reviews">
-                                <h3>Titan White Dial Analog Watch</h3>
+{{--                            <div class="title-reviews">--}}
+{{--                                <h3>Titan White Dial Analog Watch</h3>--}}
 
-                                <div class="reviews">
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-line"></i>
-                                    <span>(60 reviews)</span>
-                                </div><!-- .reviews ends-->
+{{--                                <div class="reviews">--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-line"></i>--}}
+{{--                                    <span>(60 reviews)</span>--}}
+{{--                                </div><!-- .reviews ends-->--}}
 
-                            </div><!-- .title-reviews ends-->
+{{--                            </div><!-- .title-reviews ends-->--}}
 
-                            <div class="price">NPR 37,990</div><!-- .price ends-->
+{{--                            <div class="price">NPR 37,990</div><!-- .price ends-->--}}
 
-                        </div><!-- .product-details ends-->
+{{--                        </div><!-- .product-details ends-->--}}
 
-                    </div><!-- .card__body ends-->
+{{--                    </div><!-- .card__body ends-->--}}
 
-                    <div class="card_footer">
-                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>
-                    </div><!-- .card_footer ends-->
+{{--                    <div class="card_footer">--}}
+{{--                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>--}}
+{{--                    </div><!-- .card_footer ends-->--}}
 
-                </div><!-- .card ends-->
+{{--                </div><!-- .card ends-->--}}
 
-                <div class="card product-card">
+{{--                <div class="card product-card">--}}
 
-                    <div class="card__header">
-                        <i class="ri-heart-line"></i>
-                        <img src="./images/featured/NAVIFORCE Nf9150 Luxury Chronograph Hollow Steel Watch-Golden.jpg" alt="">
-                    </div><!-- .card__header ends-->
+{{--                    <div class="card__header">--}}
+{{--                        <i class="ri-heart-line"></i>--}}
+{{--                        <img src="./images/featured/NAVIFORCE Nf9150 Luxury Chronograph Hollow Steel Watch-Golden.jpg" alt="">--}}
+{{--                    </div><!-- .card__header ends-->--}}
 
-                    <div class="card__body">
+{{--                    <div class="card__body">--}}
 
-                        <div class="product-details">
+{{--                        <div class="product-details">--}}
 
-                            <div class="title-reviews">
-                                <h3>NAVIFORCE Nf9150 Luxury Chronograph Hollow</h3>
+{{--                            <div class="title-reviews">--}}
+{{--                                <h3>NAVIFORCE Nf9150 Luxury Chronograph Hollow</h3>--}}
 
-                                <div class="reviews">
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-fill"></i>
-                                    <i class="ri-star-s-line"></i>
-                                    <i class="ri-star-s-line"></i>
-                                    <span>(30 reviews)</span>
-                                </div><!-- .reviews ends-->
+{{--                                <div class="reviews">--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-fill"></i>--}}
+{{--                                    <i class="ri-star-s-line"></i>--}}
+{{--                                    <i class="ri-star-s-line"></i>--}}
+{{--                                    <span>(30 reviews)</span>--}}
+{{--                                </div><!-- .reviews ends-->--}}
 
-                            </div><!-- .title-reviews ends-->
+{{--                            </div><!-- .title-reviews ends-->--}}
 
-                            <div class="price">NPR 4500</div><!-- .price ends-->
+{{--                            <div class="price">NPR 4500</div><!-- .price ends-->--}}
 
-                        </div><!-- .product-details ends-->
+{{--                        </div><!-- .product-details ends-->--}}
 
-                    </div><!-- .card__body ends-->
+{{--                    </div><!-- .card__body ends-->--}}
 
-                    <div class="card_footer">
-                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>
-                    </div><!-- .card_footer ends-->
+{{--                    <div class="card_footer">--}}
+{{--                        <a href="" class="button button--default button--block">Add to card<i class="ri-shopping-bag-line"></i></a>--}}
+{{--                    </div><!-- .card_footer ends-->--}}
 
-                </div><!-- .card ends-->
+{{--                </div><!-- .card ends-->--}}
 
-            </div><!-- .featured-products__carousel ends-->
+{{--            </div><!-- .featured-products__carousel ends-->--}}
 
-        </div><!-- .container ends-->
-    </section><!-- .featured products ends-->
+{{--        </div><!-- .container ends-->--}}
+{{--    </section><!-- .featured products ends-->--}}
     <!-- Featured Products section ends-->
 
     <!-- Trending section starts-->
@@ -640,8 +642,8 @@
     <section class="trending mar-b-sm-4">
         <div class="container">
             <div class="section-heading text-center-sm">
-                <div class="intro-bg">Trending</div>
-                <h2>Trending</h2>
+                <div class="intro-bg">Our Products</div>
+                <h2>Our Products</h2>
             </div><!-- .section-heading ends-->
 
             <div class="row">
@@ -951,15 +953,15 @@
 
 
         <p class="footer-links">
-            <a href="#">Home</a>
-            <a href="#">Blog</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
+            <a href="/">Home</a>
+{{--            <a href="#">Blog</a>--}}
+{{--            <a href="#">About</a>--}}
+{{--            <a href="#">Contact</a>--}}
         </p><!--.footer links ends-->
 
-        <p class="footer-distributed__footer-company-name">
-            © 2019 Eduonix Learning Solutions Pvt. Ltd.
-        </p>
+{{--        <p class="footer-distributed__footer-company-name">--}}
+{{--            © 2019 Eduonix Learning Solutions Pvt. Ltd.--}}
+{{--        </p>--}}
     </div>
 
     <div class="footer-distributed__footer-center">

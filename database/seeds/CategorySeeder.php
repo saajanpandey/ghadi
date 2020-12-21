@@ -27,6 +27,9 @@ class CategorySeeder extends Seeder
         Category::create([
             'name'=>'Kids'
         ]);
+        Category::create([
+            'name'=>'Casual'
+        ]);
 
     }
 }

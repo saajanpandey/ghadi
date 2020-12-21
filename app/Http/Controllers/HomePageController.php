@@ -15,6 +15,7 @@ class HomePageController extends Controller
     public function index()
     {
         $products=ads::all();
+
         return View('welcome',compact('products'));
     }
 

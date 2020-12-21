@@ -157,11 +157,11 @@
 
             <b class="gender">Gender</b>
 
-            <input type="radio" id="male" name="gender" value="male" required>
+            <input type="radio" id="male" name="gender" value="Male" required>
             <label class="form__label" for="male">Male</label><br>
-            <input type="radio" id="female" name="gender" value="female" required>
+            <input type="radio" id="female" name="gender" value="Female" required>
             <label class="form__label" for="female">Female</label><br>
-            <input type="radio" id="other" name="gender" value="other" required>
+            <input type="radio" id="other" name="gender" value="Other" required>
             <label class="form__label" for="other">Other</label><br>
 
 

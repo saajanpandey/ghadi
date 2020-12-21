@@ -135,11 +135,11 @@
                     </a>
                 </li>
 
-                <li><a href="/home/history" class="menu-item">
-                        <span class="menu-icon fas fa-history"></span>
-                        <span class="menu-label"> History </span>
-                    </a>
-                </li>
+{{--                <li><a href="/home/history" class="menu-item">--}}
+{{--                        <span class="menu-icon fas fa-history"></span>--}}
+{{--                        <span class="menu-label"> History </span>--}}
+{{--                    </a>--}}
+{{--                </li>--}}
             </ul>
         </nav>
     </aside>

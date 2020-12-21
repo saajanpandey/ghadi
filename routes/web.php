@@ -56,11 +56,11 @@ Route::get('/admin', 'Admin\DashboardController@index')->name('admin.index');
 //Route::get('/admin/register', 'Admin\RegisterController@showAdminRegisterForm');
 
 //History
-Route::get('/home/history', 'HistoryController@index')->name('history');
+//Route::get('/home/history', 'HistoryController@index')->name('history');
 
 
 //User Routes
-Route::get('/home/edit/{id}','HomeController@edit');
+Route::get('/home/edit/{id}','HomeController@edit')->name('user.edit');
 Route::post('/home/edit/{id}','HomeController@update')->name('user.update');
 Route::get('/home/delete/{id}','HomeController@destroy')->name('user.delete');
 

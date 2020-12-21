@@ -34,7 +34,7 @@ class AdminLoginRequest extends FormRequest
         return [
             'email.required' => 'An email address is required',
             'password.required' => 'A password is required',
-            'password.max'=>'Maximum of 6 letters password is required.',
+            'password.max'=>'The credentials do not match.',
         ];
     }
 }
