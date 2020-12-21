@@ -166,9 +166,9 @@
                 <!-- .flex-* ends-->
                 <div class="flex-sm-4 flex-md-3">
                     <div class="header__extra">
-{{--                        <div class="search">--}}
-{{--                            <div class="icon"><i class="ri-search-line"></i></div>--}}
-{{--                        </div>--}}
+                        <div class="search">
+                            <div class="icon"><a href="/search"><i class="ri-search-line"></i></a></div>
+                        </div>
                         <!-- .search ends-->
 
 {{--                        <div class="cart">--}}

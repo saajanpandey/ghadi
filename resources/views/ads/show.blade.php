@@ -149,13 +149,13 @@
         <!-- Site Header -->
         <header class="site-header">
             <div class="searchbar">
-                <span class="fa fa-search"></span>
-                <input type="text" name="" placeholder="Search..." id="">
+{{--                <span class="fa fa-search"></span>--}}
+{{--                <input type="text" name="" placeholder="Search..." id="">--}}
             </div>
             <div class="d-flex align-items-center">
-                <div class="notification-bell">
-                    <span class="far fa-bell"> </span>
-                </div>
+{{--                <div class="notification-bell">--}}
+{{--                    <span class="far fa-bell"> </span>--}}
+{{--                </div>--}}
                 <div class="user-info">
                     <span class="user-avatar"> AD </span>
                     <span class="user-name"> Admin </span>

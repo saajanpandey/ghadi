@@ -102,7 +102,7 @@
                     </a>
                 </li>
                 <li><a href="/ads" class="menu-item">
-                        <span class="menu-icon fa fa-shopping-bag"></i></span>
+                        <span class="menu-icon fa fa-shopping-bag"></span>
                         <span class="menu-label"> Products </span>
                     </a>
                 </li>
@@ -138,13 +138,13 @@
         <!-- Site Header -->
         <header class="site-header">
             <div class="searchbar">
-                <span class="fa fa-search"></span>
-                <input type="text" name="" placeholder="Search..." id="">
+{{--                <span class="fa fa-search"></span>--}}
+{{--                <input type="text" name="" placeholder="Search..." id="">--}}
             </div>
             <div class="d-flex align-items-center">
-                <div class="notification-bell">
-                    <span class="far fa-bell"> </span>
-                </div>
+{{--                <div class="notification-bell">--}}
+{{--                    <span class="far fa-bell"> </span>--}}
+{{--                </div>--}}
                 <div class="user-info">
                     <span class="user-avatar"> AD </span>
                     <span class="user-name"> Admin </span>

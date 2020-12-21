@@ -52,8 +52,8 @@ Route::post('/admin/signin', 'Admin\LoginController@adminLogin')->name('signin')
 
 
 Route::get('/admin', 'Admin\DashboardController@index')->name('admin.index');
-Route::post('/admin/register', 'Admin\RegisterController@createAdmin')->name('admin.reg');
-Route::get('/admin/register', 'Admin\RegisterController@showAdminRegisterForm');
+//Route::post('/admin/register', 'Admin\RegisterController@createAdmin')->name('admin.reg');
+//Route::get('/admin/register', 'Admin\RegisterController@showAdminRegisterForm');
 
 //History
 Route::get('/home/history', 'HistoryController@index')->name('history');
@@ -63,3 +63,6 @@ Route::get('/home/history', 'HistoryController@index')->name('history');
 Route::get('/home/edit/{id}','HomeController@edit');
 Route::post('/home/edit/{id}','HomeController@update')->name('user.update');
 Route::get('/home/delete/{id}','HomeController@destroy')->name('user.delete');
+
+//Search Routes
+Route::get('/search','SearchController@index')->name('search');
